@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(0, 120, 120);
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+b {
+  color: green;
+}
+
+body {
+  background-color: cadetblue;
+}
